@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Event Booking & Management System**
-- 🌱 I’m learning **Next.js, TypeScript, and Advanced Backend Concepts**
+- 🔭 I’m currently working on **Transaction System**
+- 🌱 I’m working on **Next.js, TypeScript, and Advanced Backend Concepts**
 - 👯 I’m looking to collaborate on **Full-Stack Web Applications & Open Source Projects**
 - 💬 Ask me about **MERN Stack, Next.js, API Development, and Performance Optimization**
 - ⚡ Fun fact: I love **exploring new tech & participating in hackathons!**  
