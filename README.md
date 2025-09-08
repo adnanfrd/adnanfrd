@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adnan Fareed</h1>
-<h3 align="center">A Passionate MERN Stack Developer 🚀</h3>
+<h3 align="center">AI-Powered Full Stack SaaS & MVP Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF61D1&center=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF61D1&center=true&width=600&lines=Building+AI-Driven+SaaS+Applications;Crafting+MVPs+that+Scale;MERN+%2B+Next.js+Specialist;Startup-Friendly+Product+Development" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Transaction System**
-- 🌱 I’m working on **Next.js, TypeScript, and Advanced Backend Concepts**
-- 👯 I’m looking to collaborate on **Full-Stack Web Applications & Open Source Projects**
-- 💬 Ask me about **MERN Stack, Next.js, API Development, and Performance Optimization**
-- ⚡ Fun fact: I love **exploring new tech & participating in hackathons!**  
-- 📫 Reach me at **[adnanfrd.work@gmail.com]** or **[https://www.linkedin.com/in/adnanfrd/]**  
+- 🔭 Currently building **transaction systems & SaaS MVPs**
+- 🌱 Exploring **Next.js 14, Supabase, TypeScript, & AI integrations**
+- 👯 Open to collaborating on **SaaS platforms, Landing Pages, and Full-Stack Web Apps**
+- 💬 Ask me about **MERN Stack, Next.js, Supabase, API Development, SaaS MVPs**
+- ⚡ Fun fact: I love turning **startup ideas into lovable, production-ready apps**
+- 📫 Reach me at **[adnanfrd.work@gmail.com](mailto:adnanfrd.work@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/adnanfrd/)
 
 ---
 
@@ -27,8 +27,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-#### 🛠 Tools & Platforms  
+#### ⚡ Tools & Platforms  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -56,3 +57,8 @@
     <img src="https://img.shields.io/badge/Portfolio-FF61D1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+⭐ **I specialize in turning startup ideas into lovable SaaS MVPs with AI + Next.js + Supabase + MERN stack.**  
+🚀 Let’s build something amazing together!
