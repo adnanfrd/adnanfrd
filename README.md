@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **transaction systems & SaaS MVPs**
-- 🌱 Exploring **Next.js 14, Supabase, TypeScript, & AI integrations**
-- 👯 Open to collaborating on **SaaS platforms, Landing Pages, and Full-Stack Web Apps**
+- 🔭 Currently building **Ai Powered SaaS MVPs**
+- 🌱 Working with **Next.js 15, Supabase, TypeScript, & AI integrations**
+- 👯 Open to collaborating on **SaaS platforms, Websites, Landing Pages, and Full-Stack Web Apps**
 - 💬 Ask me about **MERN Stack, Next.js, Supabase, API Development, SaaS MVPs**
 - ⚡ Fun fact: I love turning **startup ideas into lovable, production-ready apps**
 - 📫 Reach me at **[adnanfrd.work@gmail.com](mailto:adnanfrd.work@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/adnanfrd/)
